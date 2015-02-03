@@ -1,2 +1,7 @@
 *~
-
+*.pdf
+*.pyc
+*__pycache__
+localConfig.py
+*.backup
+*.bst

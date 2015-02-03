@@ -1,0 +1,13 @@
+*~
+*.pdf
+*.aux
+*.bbl
+*.ilg
+*.run.xml
+*.toc
+*.log
+*.blg
+*.ind
+*.bib
+*.idx
+
